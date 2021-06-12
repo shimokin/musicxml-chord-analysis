@@ -1,3 +1,8 @@
+# Musicxml
+*.musicxml
+*.mxl
+*.musx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
